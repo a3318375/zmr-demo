@@ -1,8 +1,12 @@
-微服务脚手架，大幅度魔改ruoyi
+# AI Agent Lab
 
-- spring cloud
-- spring boot
-- gateway
-- nacos
-- satoken
-- mybatis-flex
+Personal experiments around self-hosted AI agents.
+
+Current focus:
+- Hermes agent workflows
+- multi-model routing
+- tool calling
+- Docker / DevOps automation
+- Java backend AI integration
+- knowledge workflows
+- Chinese-first assistant experiments
